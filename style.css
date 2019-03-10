@@ -1,0 +1,21 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+}
+header {
+  text-align: center;
+  background-color: #404041;
+  padding: 25px;
+  font-size: 30px;
+}
+
+.number-title {
+  font-weight: bolder;
+  color: #ED458B;
+}
+.guesser {
+  color: #E6E7E8;
+}
+
+#clear {
+  visibility: hidden;
+}
